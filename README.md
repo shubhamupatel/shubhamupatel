@@ -4,7 +4,7 @@ Computer Science student at Northeastern University's Khoury College of Computer
 
 Currently seeking a Spring 2027 co-op (January–June 2027) in software engineering, machine learning, or AI.
 
-## Featured project
+## Featured Project
 
 **[ASL Alphabet Recognizer](https://github.com/shubhamupatel/asl-alphabet-recognizer)**: real-time American Sign Language alphabet recognition from a webcam, using MediaPipe hand landmarks and a PyTorch classifier.
 
@@ -12,16 +12,17 @@ Currently seeking a Spring 2027 co-op (January–June 2027) in software engineer
 - Session-level data splits to prevent leakage, per-letter error analysis, and permutation-based feature importance
 - Every design decision documented, with the alternatives and trade-offs, in a public decision log
 
-## Currently building
+## Currently Building
 
-**[AIOps observability platform](https://github.com/shubhamupatel/aiops-observability-platform)**: detects anomalies in simulated server metrics and uses an LLM (Gemini) to generate natural-language explanations of flagged events. Validation on real AWS CloudWatch data is planned.
+**[AIOps Observability Platform](https://github.com/shubhamupatel/aiops-observability-platform)**: detects anomalies in simulated server metrics and uses an LLM (Gemini) to generate natural-language explanations of flagged events. Validation on real AWS CloudWatch data is planned.
 
-## Also built
+## Other Projects
 
-**Unix-style shell in C** (Computer Systems course project): pipes, I/O redirection, command sequencing, and built-in commands, on top of a tokenizer and resizable vector written from scratch.
+**Unix-Style Shell** (Computer Systems course project): pipes, I/O redirection, command sequencing, and built-in commands, on top of a tokenizer and resizable vector written from scratch.
+
 **CookYourBooks** (Program Design & Implementation 2 team project): a JavaFX app for storing, creating, and importing recipes, built by a team of four. I designed the recipe-creation framework, including ingredient unit handling, and built recipe importing, the library view, and the navigation sidebar.
 
-## Tech
+## Technical Skills
 
 - **Languages:** Python, Java, C++, C, x86-64 Assembly, SQL
 - **ML and data:** PyTorch, scikit-learn, NumPy, OpenCV, MediaPipe, Matplotlib
