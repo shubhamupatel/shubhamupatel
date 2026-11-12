@@ -1,6 +1,6 @@
 # Hi, I'm Shubham!
 
-I'm a computer science student at Northeastern University's Khoury College of Computer Sciences, concentrating in Artificial Intelligence (Class of 2029). I build applied machine learning systems and like understanding them end to end, from data collection to model evaluation.
+I'm a Computer Science student at Northeastern University, concentrating in Artificial Intelligence (Class of 2029). I build applied machine learning systems and like understanding them end to end, from data collection to model evaluation.
 
 I'm currently looking for a Spring 2027 co-op (January-June 2027) in software engineering, machine learning, or AI.
 
